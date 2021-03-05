@@ -1,2 +1,2 @@
-# email-1
+# HTML Email Project | Promo.com
 HTML Email personal project
